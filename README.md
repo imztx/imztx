@@ -41,15 +41,15 @@ Estou no segundo ano da faculdade, aprendendo mais a cada dia!</h2>
  
 <div> 
   <a href="https://instagram.com/luizfelipemartinsqua" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"
-  height="25"> </a>
+  height="30"> </a>
   <a href = "mailto:luiz.lipem@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"
-                                              height="25"></a>
+                                              height="30"></a>
   <a href="https://www.linkedin.com/in/luiz-felipe-martins-949b3427a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
-                                                                                        height="25"></a>
+                                                                                        height="30"></a>
   <a href="https://api.whatsapp.com/send/?phone=14998852801&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"
-                                                                                                                   height="25"></a>
+                                                                                                                   height="30"></a>
   <a href="https://gitlab.com/luiz_martins" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"
-                                                              height="25"></a>
+                                                              height="30"></a>
 
 </div>
 
