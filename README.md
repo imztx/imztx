@@ -55,8 +55,4 @@ Estou no segundo ano da faculdade, aprendendo mais a cada dia!</h2>
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Luiz/Luiz/output/snake.svg" alt="Snake animation" />
-
-###
