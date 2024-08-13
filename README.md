@@ -1,5 +1,5 @@
 ## Olá me chamo Luiz Felipe, sou estudante de ciências da computação!
-## Estou aprendendo e procuro estágio para ter mais aprendizado em qualquer linguagem, ou área (back-end, front-end ou full stack).
+## Estou no segundo ano da faculdade, aprendendo mais a cada dia!
 
 
 <div style="display: inline_block"><br>
