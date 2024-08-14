@@ -1,8 +1,16 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Luiz+Felipe!;" />
 </h1>
-<h2 align="left">Estudante de ciências da computação!
-Estou no segundo ano da faculdade, aprendendo mais a cada dia!</h2>
+
+###
+
+<div  align="center" >
+  - Estudante de ciências da computação!
+  <br>
+- Estou no segundo ano da faculdade, aprendendo mais a cada dia!
+
+  <h2 align="center" >⚡Stats⚡</h2>
+</div>
 
 ###
 
@@ -61,6 +69,10 @@ Estou no segundo ano da faculdade, aprendendo mais a cada dia!</h2>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/imztx/imztx/output/snake.svg" alt="Snake animation" />
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
 
 ###
 
