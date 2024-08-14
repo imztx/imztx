@@ -1,4 +1,7 @@
-<h2 align="left">Olá me chamo Luiz Felipe, moro em Tupã e sou estudante de ciências da computação!
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Luiz!;" />
+</h1>
+<h2 align="left">Estudante de ciências da computação!
 Estou no segundo ano da faculdade, aprendendo mais a cada dia!</h2>
 
 ###
